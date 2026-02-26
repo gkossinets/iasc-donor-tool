@@ -30,4 +30,4 @@ MAX_RESULTS_PER_QUERY = 20   # default limit for search results
 
 # UI configuration
 APP_TITLE = "IASC Donor Analytics"
-APP_SUBTITLE = "AI-powered donor intelligence for The Hedgehog Review"
+APP_SUBTITLE = "AI-powered donor intelligence for the IASC and The Hedgehog Review"
